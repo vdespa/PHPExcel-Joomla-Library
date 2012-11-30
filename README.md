@@ -14,7 +14,7 @@ Version
 Usage
 -----
 
-`jimport('phpword.library.phpexcel');  `
+`jimport('phpexcel.library.phpexcel');  `
 
 `// New Word Document  `
 
