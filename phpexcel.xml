@@ -23,7 +23,7 @@
 	</files>
 	<updateservers>
 		<server type="extension" priority="2"
-			name="PHPExcel-Joomla-Library Update Server">https://raw.github.com/vdespa/PHPExcel-Joomla-Library/master/update/phpexcel-update.xml
+			name="PHPExcel-Joomla-Library Update Server">https://raw.github.com/vdespa/PHPExcel-Joomla-Library/master/update/extension.xml
 		</server>
 	</updateservers>
 </extension>
