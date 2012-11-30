@@ -7,7 +7,7 @@
 	<version>1.0.0</version>
 	<infourl title="PHPExcel for Joomla!">https://github.com/vdespa/PHPExcel-Joomla-Library</infourl>
 	<downloads>
-		<downloadurl type="full" format="zip">http://www.example.com/package.zip
+		<downloadurl type="full" format="zip">https://github.com/downloads/vdespa/PHPExcel-Joomla-Library/phpexcel_joomla_library_1.0.0.zip
 		</downloadurl>
 	</downloads>
 	<tags>
