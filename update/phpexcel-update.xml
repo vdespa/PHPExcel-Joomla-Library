@@ -1,0 +1,19 @@
+<update>
+	<name>PHPExcel-Joomla-Library</name>
+	<description>PHPExcel Library for Joomla!</description>
+	<element>phpexcel</element>
+	<type>plugin</type>
+	<folder>phpexcel</folder>
+	<version>1.0.0</version>
+	<infourl title="PHPExcel for Joomla!">https://github.com/vdespa/PHPExcel-Joomla-Library</infourl>
+	<downloads>
+		<downloadurl type="full" format="zip">http://www.example.com/package.zip
+		</downloadurl>
+	</downloads>
+	<tags>
+		<tag>stable</tag>
+	</tags>
+	<maintainer>Valentin Despa</maintainer>
+	<maintainerurl>http://www.vdespa.de</maintainerurl>
+	<targetplatform name="joomla" version="2.5" />
+</update>

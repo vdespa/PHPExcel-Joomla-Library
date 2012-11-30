@@ -13,11 +13,17 @@
 	</license>
 	<version>1.0.0</version>
 	<description>
-		PHPExcel - OpenXML - Read, Write and Create Excel documents in PHP
+		PHPExcel - OpenXML - Read, Write and Create Excel
+		documents in PHP
 	</description>
 	<!-- Anything included in the <files> element will be copied into the library's 
 		folder. -->
 	<files>
 		<folder>library</folder>
 	</files>
+	<updateservers>
+		<server type="extension" priority="2"
+			name="PHPExcel-Joomla-Library Update Server">https://raw.github.com/vdespa/PHPExcel-Joomla-Library/master/update/phpexcel-update.xml
+		</server>
+	</updateservers>
 </extension>
