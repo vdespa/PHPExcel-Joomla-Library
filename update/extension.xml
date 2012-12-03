@@ -3,7 +3,7 @@
 		<name>PHPExcel-Joomla-Library</name>
 		<description>PHPExcel Library for Joomla!</description>
 		<element>phpexcel</element>
-		<type>plugin</type>
+		<type>library</type>
 		<folder>phpexcel</folder>
 		<version>1.0.1</version>
 		<infourl title="PHPExcel for Joomla!">https://github.com/vdespa/PHPExcel-Joomla-Library</infourl>
