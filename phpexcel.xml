@@ -11,7 +11,7 @@
 	<license>
 		LGPL http://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
 	</license>
-	<version>1.0.0</version>
+	<version>1.0.1</version>
 	<description>
 		PHPExcel - OpenXML - Read, Write and Create Excel
 		documents in PHP
