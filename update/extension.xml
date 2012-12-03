@@ -4,7 +4,7 @@
 		<description>PHPExcel Library for Joomla!</description>
 		<element>phpexcel</element>
 		<type>library</type>
-		<folder>phpexcel</folder>
+		<folder></folder>
 		<version>1.0.1</version>
 		<infourl title="PHPExcel for Joomla!">https://github.com/vdespa/PHPExcel-Joomla-Library</infourl>
 		<downloads>
