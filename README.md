@@ -10,7 +10,7 @@ Download
 
 You can download the current version / older version of PHPExcel-Joomla-Library using the [PHPExcel-Joomla-Library download page] (https://github.com/vdespa/PHPExcel-Joomla-Library/downloads)
 
-
+------------------------------------
 [Direct link to the current release]  (https://github.com/downloads/vdespa/PHPExcel-Joomla-Library/phpexcel_joomla_library_1.0.1.zip)
 
 Version
