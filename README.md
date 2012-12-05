@@ -33,7 +33,7 @@ Documentation
 -------------
 
 * [PHPExcel Codeplex page] (http://phpexcel.codeplex.com/)
-* [PHPExcel github page] (hhttps://github.com/PHPOffice/PHPExcel)
+* [PHPExcel github page] (https://github.com/PHPOffice/PHPExcel)
 
 Bugs? Problems? Feedback?
 -------------------------
