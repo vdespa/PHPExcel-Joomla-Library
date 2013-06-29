@@ -1,5 +1,4 @@
-PHPExcel Library for Joomla!
-=======================
+# PHPExcel Library for Joomla! ![Project status](http://stillmaintained.com/vdespa/PHPExcel-Joomla-Library.png)
 
 PHPExcel Library for Joomla! 2.5. &amp; 3.1. 
 
