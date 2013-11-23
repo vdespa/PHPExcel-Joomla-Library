@@ -9,7 +9,7 @@ Download
 
 You can download the current version / older version of PHPExcel-Joomla-Library using the [PHPExcel-Joomla-Library download page] (https://bitbucket.org/vdespa/phpexcel-joomla-library/downloads) - kindly hosted by bitbucket.org.
 
-[Direct link to the current release]  (https://bitbucket.org/vdespa/phpexcel-joomla-library/downloads/PHPExcel-Joomla-Library-1.7.8.zip)
+[Direct link to the current release]  (https://bitbucket.org/vdespa/phpexcel-joomla-library/downloads/PHPExcel-Joomla-Library-1.7.9.zip)
 
 Version
 -------
