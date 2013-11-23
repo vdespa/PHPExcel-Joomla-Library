@@ -1,7 +1,7 @@
 PHPExcel Library for Joomla!
 =======================
 
-PHPExcel Library for Joomla! 2.5. &amp; 3.1. 
+PHPExcel Library for Joomla! 2.5. &amp; 3
 
 If you already know how to use PHPExcel and you need it for a Joomla! project, than this is a library package to be used in Joomla!
 
@@ -15,7 +15,7 @@ You can download the current version / older version of PHPExcel-Joomla-Library 
 Version
 -------
 
-* The current Joomla! Library is using PHPExcel 1.7.8
+* The current Joomla! Library is using PHPExcel 1.7.9 (please note that PHPExcel 1.7.9 will be the last release of PHPExcel in the 1.x branch). 
 
 Usage
 -----
@@ -39,6 +39,13 @@ Documentation
 
 * [PHPExcel Codeplex page] (http://phpexcel.codeplex.com/)
 * [PHPExcel github page] (https://github.com/PHPOffice/PHPExcel)
+
+Automatic updates
+-----------------
+
+This library is integrated with Joomla's automatic updates. Before updating it's mandatory that you check that your documents still work as expected.
+
+Please note that PHPExcel 1.7.9 will be the last release of PHPExcel in the 1.x branch. An automatic upgrade to PHPExcel 2.0.0 (when released) will not be offered.
 
 Bugs? Problems? Feedback?
 -------------------------

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <extension type="library" method="upgrade" version="2.5.0">
-	<name>PHPExcel Joomla Library</name>
+	<name>PHPExcel Library for Joomla</name>
 	<!-- This element is the "system name" for the library -->
 	<libraryname>phpexcel</libraryname>
 	<author>Valentin Despa</author>
 	<authorEmail>info@vdespa.de</authorEmail>
 	<authorUrl>www.vdespa.de</authorUrl>
-	<creationDate>09.05.2013</creationDate>
-	<copyright>Copyright (c) 2012 PHPExcel</copyright>
+	<creationDate>23.11.2013</creationDate>
+	<copyright>Copyright (c) 2013 PHPExcel</copyright>
 	<license>
 		LGPL http://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
 	</license>
-	<version>1.7.8</version>
+	<version>1.7.9</version>
 	<description>
 		PHPExcel - OpenXML - Read, Write and Create Excel
 		documents in PHP
