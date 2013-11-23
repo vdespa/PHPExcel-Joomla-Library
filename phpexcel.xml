@@ -24,5 +24,7 @@
 	<updateservers>
 		<server type="extension" priority="2"
 			name="PHPExcel-Joomla-Library Update Server">http://raw.github.com/vdespa/PHPExcel-Joomla-Library/master/update/extension.xml</server>
+		<server type="extension" priority="1"
+			name="PHPExcel-Joomla-Library Update Server (HTTPS)">https://raw.github.com/vdespa/PHPExcel-Joomla-Library/master/update/extension.xml</server>
 	</updateservers>
 </extension>
