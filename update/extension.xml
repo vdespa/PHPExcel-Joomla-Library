@@ -17,5 +17,6 @@
 		<maintainer>Valentin Despa</maintainer>
 		<maintainerurl>http://www.vdespa.de</maintainerurl>
 		<targetplatform name="joomla" version="2.5" />
+		<targetplatform name="joomla" version="3.0" />
 	</update>
 </updates>
