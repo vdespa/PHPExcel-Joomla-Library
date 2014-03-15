@@ -1,26 +1,26 @@
 # PHPExcel Library for Joomla! ![Project status](http://stillmaintained.com/vdespa/PHPExcel-Joomla-Library.png)
 
-PHPExcel Library for Joomla! 2.5. &amp; 3
+**PHPExcel Library for Joomla! 2.5.x &amp; 3.x**
 
-If you already know how to use PHPExcel and you need it for a Joomla! project, than this is a library package to be used in Joomla!
+If you already know how to use PHPExcel and you need it for a Joomla! project, than this is a library package to be used in Joomla! Easy to install and update.
 
 Download
 --------
 
-You can download the current version / older version of PHPExcel-Joomla-Library using the [PHPExcel-Joomla-Library download page] (https://bitbucket.org/vdespa/phpexcel-joomla-library/downloads) - kindly hosted by bitbucket.org.
+[![Download now](https://raw.github.com/vdespa/PHPExcel-Joomla-Library/master/download.png)](https://bitbucket.org/vdespa/phpexcel-joomla-library/downloads/PHPExcel-Joomla-Library-1.7.9.zip)
 
-[Direct link to the current release]  (https://bitbucket.org/vdespa/phpexcel-joomla-library/downloads/PHPExcel-Joomla-Library-1.7.9.zip)
+You can download the current version / older version of PHPExcel-Joomla-Library using the [PHPExcel-Joomla-Library download page] (https://bitbucket.org/vdespa/phpexcel-joomla-library/downloads) - kindly hosted by bitbucket.org.
 
 Version
 -------
 
-* The current Joomla! Library is using PHPExcel 1.7.9 (please note that PHPExcel 1.7.9 will be the last release of PHPExcel in the 1.x branch). 
+* The current Joomla! Library is using PHPExcel 1.8.0.
 
 Usage
 -----
 
-    // Import PHPExcel library`
-    jimport('phpexcel.library.PHPExcel');`
+    // Import PHPExcel library
+    jimport('phpexcel.library.PHPExcel');
 
 or 
 
@@ -44,7 +44,7 @@ Automatic updates
 
 This library is integrated with Joomla's automatic updates. Before updating it's mandatory that you check that your documents still work as expected.
 
-Please note that PHPExcel 1.7.9 will be the last release of PHPExcel in the 1.x branch. An automatic upgrade to PHPExcel 2.0.0 (when released) will not be offered.
+Please note that PHPExcel releases from the 1.x will NOT get an automatic upgrade to PHPExcel 2.0.0 (when released).
 
 Bugs? Problems? Feedback?
 -------------------------
