@@ -6,12 +6,12 @@
 	<author>Valentin Despa</author>
 	<authorEmail>info@vdespa.de</authorEmail>
 	<authorUrl>www.vdespa.de</authorUrl>
-	<creationDate>23.11.2013</creationDate>
-	<copyright>Copyright (c) 2013 PHPExcel</copyright>
+	<creationDate>15.03.2014</creationDate>
+	<copyright>Copyright (c) 2006 - 2014 PHPExcel</copyright>
 	<license>
 		LGPL http://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
 	</license>
-	<version>1.7.9</version>
+	<version>1.8.0</version>
 	<description>
 		PHPExcel - OpenXML - Read, Write and Create Excel
 		documents in PHP
