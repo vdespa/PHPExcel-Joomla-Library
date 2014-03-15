@@ -7,7 +7,7 @@ If you already know how to use PHPExcel and you need it for a Joomla! project, t
 Download
 --------
 
-[![Download now](https://raw.github.com/vdespa/PHPExcel-Joomla-Library/master/download.png)](https://bitbucket.org/vdespa/phpexcel-joomla-library/downloads/PHPExcel-Joomla-Library-1.7.9.zip)
+[![Download now](https://raw.github.com/vdespa/PHPExcel-Joomla-Library/master/download.png)](https://bitbucket.org/vdespa/phpexcel-joomla-library/downloads/PHPExcel-Joomla-Library-1.8.0.zip)
 
 You can download the current version / older version of PHPExcel-Joomla-Library using the [PHPExcel-Joomla-Library download page] (https://bitbucket.org/vdespa/phpexcel-joomla-library/downloads) - kindly hosted by bitbucket.org.
 
