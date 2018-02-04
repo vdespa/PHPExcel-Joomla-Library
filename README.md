@@ -1,4 +1,4 @@
-# PHPExcel Library for Joomla! ![Project status](http://stillmaintained.com/vdespa/PHPExcel-Joomla-Library.png)
+# PHPExcel Library for Joomla! ![](https://img.shields.io/badge/maintained%3F-no!-red.svg?style=flat)
 
 **PHPExcel Library for Joomla! 2.5.x &amp; 3.x**
 
